@@ -8,6 +8,6 @@
 * **Inlämning:** Du lämnar in ett eget repo med alla filer från detta repo samt svar :-) 
 
 
-**Totalpoäng:** 33 poäng varav 25 poäng för godkänt
+**Totalpoäng:** 32 poäng varav 24 poäng för godkänt
 
 # fjs23-avancerad-javascript-omprov
