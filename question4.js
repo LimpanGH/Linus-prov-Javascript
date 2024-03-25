@@ -1,3 +1,5 @@
+// ! Hoppa över denna, svaret låg kvar.
+
 // 4. (2p) Skriv en funktion calculateLifespans som tar en array med författare och returnerar en 
 // ny array med författarens totala livslängd (passed - year).
 // Använd map
@@ -25,8 +27,8 @@ const authors = [
   }
 
 // Test
-console.log(calculateLifespans(authors)); /* Ska logga: [
-  82, 38, 60, 44, 98, 68,
- 100, 43, 48, 36, 75, 27,
-  41
-]*/
+// console.log(calculateLifespans(authors)); //  Ska logga: [
+//   82, 38, 60, 44, 98, 68,
+//  100, 43, 48, 36, 75, 27,
+//   41
+// ]
